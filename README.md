@@ -1,3 +1,4 @@
+![Claude AI Mystery](cover.jpg)
 # Claude AI Mystery
 
 Welcome to the official repository for **Claude AI Mystery**.
