@@ -1,26 +1,28 @@
-![Claude AI Mystery](cover.jpg)
 # Claude AI Mystery
 
-Welcome to the official repository for **Claude AI Mystery**.
+![Book Cover](cover.jpg)
 
-## What You'll Learn
+## 📖 About the Book
 
-- Introduction to Claude AI
-- Advanced Prompting
-- Productivity Workflows
-- AI Automation
-- Practical Use Cases
+Claude AI Mystery is a complete guide to learning Claude AI from beginner to advanced level.
 
-## About the Book
+### 📚 What You'll Learn
 
-📖 150+ pages
+- Claude AI Basics
+- Prompt Engineering
+- AI for Business
+- Productivity Tips
+- Practical Examples
+- 150+ Pages
 
-This repository contains updates, resources, and bonus materials related to the book.
+## 👤 Author
 
-## Buy the eBook
+**MindCraft Media**
 
-Coming Soon
+## 📩 Contact
 
-## Contact
+Pinterest: Coming Soon
 
-MindCraft Media
+Email: your-email@example.com
+
+⭐ Thanks for visiting this repository!
